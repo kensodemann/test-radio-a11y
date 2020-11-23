@@ -1,0 +1,7 @@
+{
+  "name": "test-radio",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
